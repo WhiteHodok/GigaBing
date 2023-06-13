@@ -31,6 +31,8 @@ source venv/bin/activate - MacOs , Linux
 pip install aiohttp==3.8.4 && EdgeGPT==0.2.1 && pyTelegramBotAPI==4.10.0 && telebot~=0.0.5 && asyncio~=3.4.3
 ```
 
+- Воткните токен своего бота в код (там сами найдёте , как 2 пальца)
+
 ## Before using
 
 - Убедитесь что у вас есть VPN страны , где работает Bing и доступ к нему
