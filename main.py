@@ -5,7 +5,7 @@ import telebot
 from EdgeGPT import Chatbot, ConversationStyle
 from telebot.util import quick_markup
 
-TOKEN = "6209676775:AAEkGC-XxBmM_p66VeiZtMzIBOdyMeTHX1Y"
+TOKEN = ""
 COOKIE_PATH = 'cookie.json'
 bot = telebot.TeleBot(TOKEN)
 EDGES = {}
